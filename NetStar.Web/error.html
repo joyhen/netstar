@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <title>错误</title>
+    <style>
+        .index {
+            margin:0px; padding:0px;
+        }
+        .wrong {
+            position: fixed;
+            width: 250px;
+            height: 300px;
+            text-align: center;
+            left: 50%;
+            top: 50%;
+            margin: -150px 0 0 -125px;
+            color: #666666;
+        }
+
+            .wrong img {
+                width: 159px;
+                height: auto;
+                display: inline;
+            }
+
+            .wrong p {
+                margin: 20px 0;
+            }
+
+            .wrong a {
+                text-decoration: none;
+            }
+
+                .wrong a .btn {
+                    display: inline-block;
+                    padding: 6px 12px;
+                    margin-bottom: 0;
+                    font-size: 14px;
+                    font-weight: 400;
+                    line-height: 1.42857143;
+                    text-align: center;
+                    white-space: nowrap;
+                    vertical-align: middle;
+                    -ms-touch-action: manipulation;
+                    touch-action: manipulation;
+                    cursor: pointer;
+                    -webkit-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none;
+                    background-image: none;
+                    border: 1px solid transparent;
+                    border-radius: 4px;
+                    background-color: #107bcf;
+                    color: #fff;
+                }
+    </style>
+
+</head>
+
+<body class="index">    
+    <div class="wrong">
+        <img src="404.png" />
+        <p>网页出错啦，您访问的页面已丢失</p>
+        <a href="javascript:history.go(-1);">
+            <div class="btn">返回</div>
+        </a>
+    </div>
+</body>
+</html>

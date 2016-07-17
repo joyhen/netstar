@@ -1,0 +1,283 @@
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\WindowsService1.exe.config
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\WindowsService1.exe
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\WindowsService1.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Controller.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Jon.Api.Business.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Newtonsoft.Json.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Model.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Jon.Api.Business.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Controller.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Newtonsoft.Json.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Model.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.SelfHost.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\WindowsService1.exe
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\WindowsService1.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\WindowsService1.exe.config
+F:\business\JonOpen\TimeWindowsService\bin\Debug\WindowsService1.exe.manifest
+F:\business\JonOpen\TimeWindowsService\bin\Debug\WindowsService1.application
+F:\business\JonOpen\TimeWindowsService\bin\Debug\WindowsService1.exe
+F:\business\JonOpen\TimeWindowsService\bin\Debug\WindowsService1.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Common.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Common.Logging.Core.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Common.Logging.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Config.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Controller.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\jpush-api.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Model.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Newtonsoft.Json.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Quartz.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Server.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Net.Http.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Web.Http.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Tools.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Dapper.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Dapper.Contrib.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\jpush-api.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Common.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Config.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Controller.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Model.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Server.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Tools.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Common.Logging.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Common.Logging.xml
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Common.Logging.Core.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Common.Logging.Core.xml
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Quartz.pdb
+F:\business\JonOpen\TimeWindowsService\bin\Debug\Quartz.xml
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Net.Http.xml
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.xml
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.xml
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Web.Http.xml
+F:\business\JonOpen\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.xml
+F:\business\JonOpen\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\business\JonOpen\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.SelfHost.resources.dll
+F:\business\JonOpen\TimeWindowsService\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+F:\business\JonOpen\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+F:\business\JonOpen\TimeWindowsService\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+F:\business\JonOpen\TimeWindowsService\obj\Debug\WindowsService1.exe.manifest
+F:\business\JonOpen\TimeWindowsService\obj\Debug\WindowsService1.application
+F:\business\JonOpen\TimeWindowsService\obj\Debug\WindowsService1.exe
+F:\business\JonOpen\TimeWindowsService\obj\Debug\WindowsService1.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\WindowsService1.exe.config
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\WindowsService1.exe.manifest
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\WindowsService1.application
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\WindowsService1.exe
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\WindowsService1.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Common.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Common.Logging.Core.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Common.Logging.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Config.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\jpush-api.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Model.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Newtonsoft.Json.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Quartz.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Server.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Net.Http.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Web.Http.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Tools.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Dapper.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Dapper.Contrib.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\protobuf-net.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\jpush-api.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Common.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Config.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Model.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Server.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Tools.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Common.Logging.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Common.Logging.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Common.Logging.Core.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Common.Logging.Core.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Quartz.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\Quartz.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Net.Http.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Web.Http.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\protobuf-net.pdb
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\protobuf-net.xml
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\business\JpushWithServer\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.SelfHost.resources.dll
+F:\business\JpushWithServer\TimeWindowsService\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+F:\business\JpushWithServer\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+F:\business\JpushWithServer\TimeWindowsService\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+F:\business\JpushWithServer\TimeWindowsService\obj\Debug\WindowsService1.exe.manifest
+F:\business\JpushWithServer\TimeWindowsService\obj\Debug\WindowsService1.application
+F:\business\JpushWithServer\TimeWindowsService\obj\Debug\WindowsService1.exe
+F:\business\JpushWithServer\TimeWindowsService\obj\Debug\WindowsService1.pdb
+E:\JXSVN\XYPush\TimeWindowsService\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+E:\JXSVN\XYPush\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+E:\JXSVN\XYPush\TimeWindowsService\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+E:\JXSVN\XYPush\TimeWindowsService\bin\Debug\WindowsService1.exe.config
+E:\JXSVN\XYPush\TimeWindowsService\obj\Debug\WindowsService1.exe
+E:\JXSVN\XYPush\TimeWindowsService\obj\Debug\WindowsService1.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\WindowsService1.exe.config
+F:\study\XYPush\TimeWindowsService\bin\Debug\WindowsService1.exe.manifest
+F:\study\XYPush\TimeWindowsService\bin\Debug\WindowsService1.application
+F:\study\XYPush\TimeWindowsService\bin\Debug\WindowsService1.exe
+F:\study\XYPush\TimeWindowsService\bin\Debug\WindowsService1.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\Common.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Common.Logging.Core.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Common.Logging.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Config.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Model.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Newtonsoft.Json.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Quartz.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Server.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Net.Http.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Web.Http.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Dapper.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Dapper.Contrib.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\protobuf-net.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Tools.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\Common.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\Config.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\Model.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\Server.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\Common.Logging.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\Common.Logging.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\Common.Logging.Core.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\Common.Logging.Core.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\Quartz.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\Quartz.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Net.Http.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Web.Http.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\protobuf-net.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\protobuf-net.xml
+F:\study\XYPush\TimeWindowsService\bin\Debug\Tools.pdb
+F:\study\XYPush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\study\XYPush\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.SelfHost.resources.dll
+F:\study\XYPush\TimeWindowsService\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+F:\study\XYPush\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+F:\study\XYPush\TimeWindowsService\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+F:\study\XYPush\TimeWindowsService\obj\Debug\WindowsService1.exe.manifest
+F:\study\XYPush\TimeWindowsService\obj\Debug\WindowsService1.application
+F:\study\XYPush\TimeWindowsService\obj\Debug\WindowsService1.exe
+F:\study\XYPush\TimeWindowsService\obj\Debug\WindowsService1.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\WindowsService1.exe.config
+F:\study\NetStar\TimeWindowsService\bin\Debug\WindowsService1.exe.manifest
+F:\study\NetStar\TimeWindowsService\bin\Debug\WindowsService1.application
+F:\study\NetStar\TimeWindowsService\bin\Debug\WindowsService1.exe
+F:\study\NetStar\TimeWindowsService\bin\Debug\WindowsService1.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\Common.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Common.Logging.Core.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Common.Logging.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Config.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Model.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Newtonsoft.Json.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Quartz.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Server.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Net.Http.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Web.Http.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Dapper.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Dapper.Contrib.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\protobuf-net.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Tools.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\Common.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\Config.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\Model.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\Server.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\Common.Logging.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\Common.Logging.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\Common.Logging.Core.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\Common.Logging.Core.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\Quartz.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\Quartz.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Net.Http.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Web.Http.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\protobuf-net.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\protobuf-net.xml
+F:\study\NetStar\TimeWindowsService\bin\Debug\Tools.pdb
+F:\study\NetStar\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\study\NetStar\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.SelfHost.resources.dll
+F:\study\NetStar\TimeWindowsService\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+F:\study\NetStar\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+F:\study\NetStar\TimeWindowsService\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+F:\study\NetStar\TimeWindowsService\obj\Debug\WindowsService1.exe.manifest
+F:\study\NetStar\TimeWindowsService\obj\Debug\WindowsService1.application
+F:\study\NetStar\TimeWindowsService\obj\Debug\WindowsService1.exe
+F:\study\NetStar\TimeWindowsService\obj\Debug\WindowsService1.pdb
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\WindowsService1.exe.config
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\WindowsService1.exe.manifest
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\WindowsService1.application
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\WindowsService1.exe
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\WindowsService1.pdb
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Common.Logging.Core.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Common.Logging.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Quartz.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Net.Http.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Web.Http.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Common.Logging.pdb
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Common.Logging.xml
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Common.Logging.Core.pdb
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Common.Logging.Core.xml
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Quartz.pdb
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\Quartz.xml
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Net.Http.xml
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.xml
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.xml
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Web.Http.xml
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.xml
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\work\NetStar.Web\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.SelfHost.resources.dll
+F:\work\NetStar.Web\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+F:\work\NetStar.Web\TimeWindowsService\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+F:\work\NetStar.Web\TimeWindowsService\obj\Debug\WindowsService1.exe.manifest
+F:\work\NetStar.Web\TimeWindowsService\obj\Debug\WindowsService1.application
+F:\work\NetStar.Web\TimeWindowsService\obj\Debug\WindowsService1.exe
+F:\work\NetStar.Web\TimeWindowsService\obj\Debug\WindowsService1.pdb

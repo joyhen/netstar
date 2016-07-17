@@ -1,0 +1,11 @@
+G:\net\NetStar\NetStar.API\bin\Debug\NetStar.API.dll
+G:\net\NetStar\NetStar.API\bin\Debug\NetStar.API.pdb
+G:\net\NetStar\NetStar.API\bin\Debug\Newtonsoft.Json.dll
+G:\net\NetStar\NetStar.API\bin\Debug\Newtonsoft.Json.xml
+G:\net\NetStar\NetStar.API\obj\Debug\NetStar.API.csprojResolveAssemblyReference.cache
+G:\net\NetStar\NetStar.API\obj\Debug\NetStar.API.dll
+G:\net\NetStar\NetStar.API\obj\Debug\NetStar.API.pdb
+G:\net\NetStar\NetStar.API\bin\Debug\NetStar.Model.dll
+G:\net\NetStar\NetStar.API\bin\Debug\NetStar.Config.dll
+G:\net\NetStar\NetStar.API\bin\Debug\NetStar.Model.pdb
+G:\net\NetStar\NetStar.API\bin\Debug\NetStar.Config.pdb

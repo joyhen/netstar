@@ -1,0 +1,5 @@
+1. cd\
+2. cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+3. InstallUtil.exe F:\publish\Debug\WindowsService1.exe
+--------------------------------------------------------------
+4. InstallUtil.exe F:\publish\WSJob\WindowsService1.exe /u  (Ð¶ÔØWindows·þÎñ)

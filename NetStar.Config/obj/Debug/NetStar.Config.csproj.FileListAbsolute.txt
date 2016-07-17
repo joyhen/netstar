@@ -1,0 +1,15 @@
+F:\work\NetStar.Web\NetStar.Config\bin\Debug\NetStar.Config.dll
+F:\work\NetStar.Web\NetStar.Config\bin\Debug\NetStar.Config.pdb
+F:\work\NetStar.Web\NetStar.Config\obj\Debug\NetStar.Config.dll
+F:\work\NetStar.Web\NetStar.Config\obj\Debug\NetStar.Config.pdb
+F:\work\NetStar.Web\NetStar.Config\obj\Debug\NetStar.Config.csprojResolveAssemblyReference.cache
+F:\work\NetStar\NetStar.Config\bin\Debug\NetStar.Config.dll
+F:\work\NetStar\NetStar.Config\bin\Debug\NetStar.Config.pdb
+F:\work\NetStar\NetStar.Config\obj\Debug\NetStar.Config.csprojResolveAssemblyReference.cache
+F:\work\NetStar\NetStar.Config\obj\Debug\NetStar.Config.dll
+F:\work\NetStar\NetStar.Config\obj\Debug\NetStar.Config.pdb
+G:\net\NetStar\NetStar.Config\bin\Debug\NetStar.Config.dll
+G:\net\NetStar\NetStar.Config\bin\Debug\NetStar.Config.pdb
+G:\net\NetStar\NetStar.Config\obj\Debug\NetStar.Config.dll
+G:\net\NetStar\NetStar.Config\obj\Debug\NetStar.Config.pdb
+G:\net\NetStar\NetStar.Config\obj\Debug\NetStar.Config.csprojResolveAssemblyReference.cache

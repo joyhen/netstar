@@ -1,0 +1,62 @@
+F:\study\MessagePush\TimeWindowsService\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\study\MessagePush\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+F:\study\MessagePush\TimeWindowsService\obj\Debug\Service.csproj.GenerateResource.Cache
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Service.exe.config
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Service.exe
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Service.pdb
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Controller.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Jon.Api.Business.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Newtonsoft.Json.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Model.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Jon.Api.Business.pdb
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Controller.pdb
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Newtonsoft.Json.xml
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.xml
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.xml
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.xml
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.xml
+F:\study\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.xml
+F:\study\MessagePush\TimeWindowsService\bin\Debug\Model.pdb
+F:\study\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\study\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.SelfHost.resources.dll
+F:\study\MessagePush\TimeWindowsService\obj\Debug\Service.exe
+F:\study\MessagePush\TimeWindowsService\obj\Debug\Service.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Service.exe.config
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\Service.exe
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\Service.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Service.exe
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Service.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Controller.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Jon.Api.Business.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Newtonsoft.Json.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Model.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Jon.Api.Business.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Controller.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.Formatting.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Net.Http.WebRequest.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\System.Web.Http.SelfHost.xml
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Model.pdb
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\zh-Hans\System.Web.Http.SelfHost.resources.dll
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\Service.ProjectInstaller.resources
+F:\study\XieIn Push\MessagePush\TimeWindowsService\obj\Debug\Service.csproj.GenerateResource.Cache
+F:\study\XieIn Push\MessagePush\TimeWindowsService\bin\Debug\Newtonsoft.Json.xml
